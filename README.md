@@ -1,4 +1,5 @@
 ## Flix Part 2
+Flixster is an app that allows users to browse movies from the The Movie Database API.
 
 ### User Stories
 
